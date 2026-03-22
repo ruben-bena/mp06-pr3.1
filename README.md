@@ -1,3 +1,10 @@
+# Para ejecutar la práctica correctamente, ir a exercicis/src, y desde ahí ejecutar los archivos de ejercicios.
+
+---
+---
+---
+---
+
 # AMS2-MP06-UF3 Repositori d'Exemple
 
 Aquest repositori proporciona un exemple pràctic d'integració de MongoDB amb Node.js, demostrant com carregar dades XML a una base de dades MongoDB.
