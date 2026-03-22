@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^7.1.0"
+    "dotenv": "^17.3.1",
+    "mongodb": "^7.1.0",
+    "winston": "^3.19.0",
+    "xml2js": "^0.6.2"
   }
 }
